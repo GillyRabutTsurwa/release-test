@@ -1,5 +1,13 @@
 
 
+## [1.5.1](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/1.5.0...1.5.1) (2023-10-28)
+
+
+### Bug Fixes
+
+* let's gooo ([66ffda1](https://github.com/nick-devs/001-add-a-changelog-to-any-project/commit/66ffda1770f774db7b6e50bd04bb59d32b96da67))
+* test settings again ([c5c8bbd](https://github.com/nick-devs/001-add-a-changelog-to-any-project/commit/c5c8bbd44d51852e41d50bde7cd8f129e56ce807))
+
 ## [1.5.0](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/1.4.0...1.5.0) (2023-10-28)
 
 
