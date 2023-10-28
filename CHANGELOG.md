@@ -1,5 +1,12 @@
 
 
+## [1.4.0](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/1.3.0...1.4.0) (2023-10-28)
+
+
+### Features
+
+* test settings ([e2444a6](https://github.com/nick-devs/001-add-a-changelog-to-any-project/commit/e2444a656fc84f750620d2330390878468a7ffc8))
+
 ## [1.3.0](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/1.2.2...1.3.0) (2023-10-28)
 
 
