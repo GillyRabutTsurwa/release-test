@@ -1,5 +1,13 @@
 
 
+## [1.5.0](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/1.4.0...1.5.0) (2023-10-28)
+
+
+### Features
+
+* changing tings ([550ddaa](https://github.com/nick-devs/001-add-a-changelog-to-any-project/commit/550ddaa4f61c3adbd5be6518524e51a84688d64f))
+* testing to see if i need husky right now ([816dbe4](https://github.com/nick-devs/001-add-a-changelog-to-any-project/commit/816dbe40fbe3a8ef441053ffaad053b41144a2b8))
+
 ## [1.4.0](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/1.3.0...1.4.0) (2023-10-28)
 
 
